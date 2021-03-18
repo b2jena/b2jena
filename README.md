@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bikash Jena
-- 👀 I’m interested in problem solving, technology, data science etd.
+- 👋 Hi, I’m Bikash Jena.
+- 👀 I’m interested in problem solving, technology, data science etc.
 - 🌱 I’m currently learning C/C++, Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on projects related to geographical information systems, python and java.
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on projects related to geographical information systems, C/C++, Python and Java.
+- 📫 How to reach me through mail : bikashjena@yahoo.com
 
 <!---
 b2jena/b2jena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
